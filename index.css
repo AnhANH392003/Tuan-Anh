@@ -4,7 +4,7 @@
 
 .above-fold{
     position: absolute;
-    top: 65%;
-    left: 65%;
-    transform: translate(-65%, -65%);
+    top: 10%;
+    left: 10%;
+    transform: translate(-10%, -10%);
 }
